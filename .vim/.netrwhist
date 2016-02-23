@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/gaosong2006/.vim/bundle/vim-easymotion'
+let g:netrw_dirhist_2='/Users/gaosong2006/.vim/bundle'
+let g:netrw_dirhist_3='/Users/gaosong2006/.vim/bundle/vim-easymotion'
+let g:netrw_dirhist_4='/Users/gaosong2006/.vim/bundle/vim-easymotion/nerdtree'
+let g:netrw_dirhist_5='/Users/gaosong2006/.vim/bundle/vim-easymotion'
+let g:netrw_dirhist_6='/Users/gaosong2006/.vim/bundle/vim-easymotion/nerdtree'
+let g:netrw_dirhist_7='/Users/gaosong2006/.vim/bundle/vim-easymotion/nerdtree/nerdtree_plugin'
+let g:netrw_dirhist_8='/Users/gaosong2006/test'
+let g:netrw_dirhist_9='/Users/gaosong2006/.vim/bundle/vim-colors-solarized/colors'
